@@ -1,1 +1,18 @@
+.picbox{
+    text-align: center;
+    float: left;
+    
+    }
 
+body {
+    background-color: aqua;
+    background-image: url("https://m.media-amazon.com/images/I/71+P-+MRm8L._AC_UF894,1000_QL80_.jpg");
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color:
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color:
+}
